@@ -6,10 +6,10 @@
     "react-scripts": "0.2.2"
   },
   "dependencies": {
-    "a-frame": "0.0.0",
     "aframe": "^0.3.1",
     "aframe-react": "^2.0.0",
     "howler": "^2.0.0",
+    "lodash": "^4.15.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-motion": "^0.4.4"
